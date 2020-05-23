@@ -1,0 +1,32 @@
+.logo {
+    font-weight: bold;
+    background-color:#4aaaa5;
+    color: white;
+    font-size: 40px;
+    font-style:italic;
+}
+
+.first image {
+    width: 20%; 
+    float: left; 
+    margin : 5px;
+
+}
+
+.text {
+    float: left;
+    color: rgb(69, 69, 133);
+}
+
+.heading_text_color {
+    color:#4aaaa5;
+  }
+
+.back_ground {
+     background-color: lightgray;
+    }
+
+.text_color {
+         color: rgb(69, 69, 133);
+    }
+    
